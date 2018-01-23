@@ -2,7 +2,11 @@
 
 I am a graduate student in Northeastern University, College of Computer and Information Science. I am a research assistant in the Olga Vitek Lab. More information about our lab, click[Olga Vitek Lab](https://olga-vitek-lab.ccis.northeastern.edu/)
 
-My research are mostly related to statistics and machine learning.
+My research are mostly related to statistics and machine learning. I really hope my research will make a difference in the field of bioinformatics. 
+
+My most recent project is to develop an R-package that fit the regulation of Bioconductor. The algorithm is for protein significance analysis in shotgun mass spectrometry-based proteomic experiments with tandem mass tag (TMT) labeling.
+
+### 2017
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
