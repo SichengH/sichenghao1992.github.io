@@ -4,9 +4,18 @@ I am a graduate student in Northeastern University, College of Computer and Info
 
 My research are mostly related to statistics and machine learning. I really hope my research will make a difference in the field of bioinformatics. 
 
+### 2018
+
 My most recent project is to develop an R-package that fit the regulation of Bioconductor. The algorithm is for protein significance analysis in shotgun mass spectrometry-based proteomic experiments with tandem mass tag (TMT) labeling.
 
 ### 2017
+
+[Visualization for Boston Real Estate Assessment](https://sichenghao1992.shinyapps.io/DS5110/), group project with R-shiny. 
+
+
+### 2016 
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
